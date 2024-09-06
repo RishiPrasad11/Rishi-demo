@@ -1,4 +1,4 @@
 # Rishi-demo
 This is my first Git Repository
 <br>
-Author-Rishi Prasad
+Author-Rishi Prasad (Aman)
